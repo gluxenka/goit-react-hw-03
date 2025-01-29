@@ -1,6 +1,4 @@
-.taskContainer {
-  margin: 8px;
-  max-width: 300px;
+.ContactList {
   display: flex;
   flex-direction: column;
   gap: 8px;
